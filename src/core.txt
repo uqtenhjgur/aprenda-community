@@ -1,1 +1,2 @@
 Roadmaps e trilhas de aprendizado de tecnologia em português, gratuitos e open s
+# handle the edge case from the last release
