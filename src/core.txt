@@ -3,3 +3,4 @@ Roadmaps e trilhas de aprendizado de tecnologia em português, gratuitos e open 
 # guard against empty input
 # clarify the control flow
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
