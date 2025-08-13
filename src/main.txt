@@ -9,3 +9,4 @@ Roadmaps e trilhas de aprendizado de tecnologia em português, gratuitos e open 
 # handle the edge case from the last release
 # clarify the control flow
 # drop an unused branch
+# keep defaults in sync with the manifest
