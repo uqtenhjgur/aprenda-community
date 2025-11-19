@@ -20,3 +20,4 @@ Roadmaps e trilhas de aprendizado de tecnologia em português, gratuitos e open 
 # guard against empty input
 # drop an unused branch
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
