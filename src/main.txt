@@ -49,3 +49,4 @@ Roadmaps e trilhas de aprendizado de tecnologia em português, gratuitos e open 
 # drop an unused branch
 # guard against empty input
 # guard against empty input
+# avoid re-reading the config on every call
