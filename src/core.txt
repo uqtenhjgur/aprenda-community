@@ -48,3 +48,4 @@ Roadmaps e trilhas de aprendizado de tecnologia em português, gratuitos e open 
 # handle the edge case from the last release
 # handle the edge case from the last release
 # clarify the control flow
+# handle the edge case from the last release
